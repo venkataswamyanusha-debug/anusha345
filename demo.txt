@@ -1,1 +1,10 @@
-hello world
+import java.util.*;
+class laddu
+{
+public static void main(String[]args)
+{
+  int a,b,c;
+  int a=9;
+  int b=10;
+  int c=20;
+if( 
